@@ -1,7 +1,7 @@
 ## AISubsMaker
 #### An AI instrument for automatize making subtitles for videos
 
- ![](example.gif)
+ ![Alt text](example.gif)
 
 ---
 **Setup:**
